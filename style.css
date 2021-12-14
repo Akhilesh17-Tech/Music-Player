@@ -9,7 +9,7 @@
 body {
   height: 100vh;
   overflow: scroll;
-  background: url(/Music-images/music-bg1-image.jpg);
+  background: url(Music-images/music-bg1-image.jpg);
   background-size: cover;
   margin-top: 5%;
   background-attachment: fixed;
